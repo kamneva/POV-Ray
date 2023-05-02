@@ -1,5 +1,5 @@
-[Домик](https://github.com/kamneva/PovRay/tree/lodge)
+1. [Домик](https://github.com/kamneva/PovRay/tree/lodge)
 
-[Мельница в космосе](https://github.com/kamneva/PovRay/tree/windmill-in-space)
+2. [Мельница в космосе](https://github.com/kamneva/PovRay/tree/windmill-in-space)
 
-[Дикие клопы у воды](https://github.com/kamneva/PovRay/blob/wild-bedbugs)
+3. [Дикие клопы у воды](https://github.com/kamneva/PovRay/blob/wild-bedbugs)
